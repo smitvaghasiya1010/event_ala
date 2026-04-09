@@ -3,6 +3,7 @@
 A modern and beautifully designed Event Planner mobile application built using Flutter.
 This app helps users manage their daily events, schedules, and important activities with ease.
 
+
 🚀 Features
 📅 Add, Edit, Delete Events
 🔍 Search Events (by title, category, location)
@@ -25,6 +26,7 @@ lib/
  ├── screens/               # Home, Profile, Add/Edit screens
  ├── widgets/               # Custom UI components
  └── storage/               # Local storage logic
+ 
 📸 App Modules
 🏠 Home Screen → View events, search, stats
 ➕ Add/Edit Screen → Create or update events
