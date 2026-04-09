@@ -42,9 +42,13 @@ lib/
 ---
 
 ## 📱 App Modules
+
 🏠 Home Screen → View events, search, stats
+
 ➕ Add/Edit Screen → Create or update events
+
 📄 Event Details → Bottom sheet view
+
 👤 Profile Screen → User info + calendar
 
 ---
